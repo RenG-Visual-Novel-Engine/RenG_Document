@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "b68b2b41dcbe2404",
+    "type": "split",
+    "children": [
+      {
+        "id": "789a856d1e489582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26ce5567ad0d9682",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "RenG/Structure/렌더링 구조.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4997f94da1a8627c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a66574f6fe8e074c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5bdfff2e55cffd72",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a3b7cbb030aa62d0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f0d89d2e9f0a67fa",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c731995acc219056",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "78a673a72f1539d9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "RenG/Structure/렌더링 구조.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d72a0ca7dd4ba1e2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "RenG/Structure/렌더링 구조.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f139774cecee0156",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "RenG/Structure/렌더링 구조.md"
+          }
+        }
+      },
+      {
+        "id": "29a21cebfd4e5921",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "26ce5567ad0d9682",
+  "lastOpenFiles": [
+    "RenG/Structure/Drawing 2022-11-16 21.08.40.excalidraw.md",
+    "RenG/Structure/Drawing 2022-11-16 21.08.40.excalidraw (conflict 2022-11-16-21-19-57).md",
+    "Excalidraw/Drawing 2022-11-16 21.11.04.excalidraw.md",
+    "꿈 속의 미리내/Settings/Story/visual structure.md",
+    "RenG/Develop/vm.md",
+    "RenG/Develop/compiler.md",
+    "꿈 속의 미리내/synopsis.md",
+    "Untitled.md",
+    "꿈 속의 미리내/Settings/Story/story structure.md",
+    "꿈 속의 미리내/Settings/Story/summary.md"
+  ]
+}

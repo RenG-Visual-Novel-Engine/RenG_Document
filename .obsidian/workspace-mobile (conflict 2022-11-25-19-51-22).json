@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "8589fdd0c2b70a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "54c0b29ac1155135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c825d41a40b03451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "꿈 속의 미리내/Settings/Story/structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d63646878af00894",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b412b1c20769a52d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0b1535abc8040b16",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5e41582c11a7341d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "17990b0acca19e2a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ec40ac446f44f344",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8e749e4614d554b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "꿈 속의 미리내/Settings/Story/structure.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9caaaa2e90fb6167",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "꿈 속의 미리내/Settings/Story/structure.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6665f8ea754f0c50",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "꿈 속의 미리내/Settings/Story/structure.md"
+          }
+        }
+      },
+      {
+        "id": "5067003b08b34961",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c825d41a40b03451",
+  "lastOpenFiles": [
+    "꿈 속의 미리내/Opening.md",
+    "꿈 속의 미리내/Chapter1.md",
+    "꿈 속의 미리내/Setting.md",
+    "영어.md",
+    "수행/과탐/유전자 가위 기술.md",
+    "꿈 속의 미리내/Chapter2.md"
+  ]
+}
