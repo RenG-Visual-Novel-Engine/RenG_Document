@@ -1,3 +1,5 @@
+<sub>fdsfd</sub>
+
 ## Member
 - - -
 > **Name** - `string` (R)
@@ -12,10 +14,10 @@
 
 ## Process
 - - -
- 1. 가장 먼저 [[Transform#SpecialTransform]]이 업데이트 됩니다.
+ 1. [[Transform#SpecialTransform]]이 업데이트 됩니다.
  2. Name을 이용해 정의된 이미지 텍스쳐를 가져옵니다.
  3. 해당 스크린 렌더 버퍼에 업데이트 됩니다.
- 4. 
+ 4. 애니메이션이 존재하는지 판단하고 애니메이션을 추가합니다.
 
 
 
